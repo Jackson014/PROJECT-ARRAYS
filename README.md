@@ -12,4 +12,5 @@
 <br>
 <br>
 <p><i>Modelo cell phone &#x1F4F1;</i></p>
+<img src="https://github.com/Jackson014/PROJECT-BURGER/blob/main/assets/Captura%20de%20tela%202025-04-04%20114634.png?raw=true">
 
