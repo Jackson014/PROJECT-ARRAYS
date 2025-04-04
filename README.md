@@ -8,3 +8,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black")>
 <br>
 <p><i>Modelo notebook &#x1F4BB;</i></p>
+<img src="https://github.com/Jackson014/PROJECT-BURGER/blob/main/assets/Captura%20de%20tela%202025-04-04%20114549.png?raw=true">
+<br>
+<br>
+<p><i>Modelo cell phone &#x1F4F1;</i></p>
+
